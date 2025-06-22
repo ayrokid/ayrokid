@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**ayrokid/ayrokid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer with over 10 years of experience as a backend developer and 5 years as a Fullstack Developer.  
+My expertise lies in Web Development, and I'm skilled in PHP, Golang, Ruby on Rails, and JavaScript.
 
-Here are some ideas to get you started:
+## 🧑‍💻 Skills
+- Web Development (Backend & Fullstack)
+- PHP
+- Golang
+- Ruby on Rails
+- JavaScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🏆 Experience
+- 10 years as a backend developer
+- 5 years as a fullstack developer
+
+## 🌱 Personality
+- Eager to learn new things
+- Collaborative and open to teamwork
+
+---
+
+Feel free to connect or check out my projects!
